@@ -64,7 +64,7 @@ def main():
         people.append(gen_bingo(bingo_init()))
     turn=1
     store=[]
-    path="outputs/"+str(random.randint(1,500))+".txt"
+    path="outputs/"+str(random.randint(1,2023))+".txt"
     with open(path,'a') as f:
         while True:
             while True:
@@ -79,7 +79,7 @@ def main():
                     people[i]=bingo_number(people[i],num)
                     people[i]=bingo_judge(people[i])
                     if people[i][0][0]==-1:
-                        print("PLAYER" + str(i) + " CLEAR! TURN: " + str(turn),file=f)
+                        print("PLAYER-" + str(i) + " CLEAR! TURN: " + str(turn),file=f)
                         temp=people[i]
                         temp[0][0]=True
                         for t in temp:
@@ -87,7 +87,9 @@ def main():
                         people[i][0][0]=0
                 if people[i][0][0]==0:
                     flag+=1
+            print("CLEAR NUMBER: "+str(flag),file=f)
             print("CLEAR RATE: " + str((flag/population)*100) + "%",file=f)
+            print("",file=f)
             if flag==population:
                 exit()
             turn+=1

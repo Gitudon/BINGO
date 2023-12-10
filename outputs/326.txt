@@ -1,0 +1,1752 @@
+Turn: 1 NUMBER: 72
+CLEAR NUMBER: 0
+CLEAR RATE: 0.0%
+
+Turn: 2 NUMBER: 33
+CLEAR NUMBER: 0
+CLEAR RATE: 0.0%
+
+Turn: 3 NUMBER: 75
+CLEAR NUMBER: 0
+CLEAR RATE: 0.0%
+
+Turn: 4 NUMBER: 14
+CLEAR NUMBER: 0
+CLEAR RATE: 0.0%
+
+Turn: 5 NUMBER: 28
+CLEAR NUMBER: 0
+CLEAR RATE: 0.0%
+
+Turn: 6 NUMBER: 54
+CLEAR NUMBER: 0
+CLEAR RATE: 0.0%
+
+Turn: 7 NUMBER: 19
+CLEAR NUMBER: 0
+CLEAR RATE: 0.0%
+
+Turn: 8 NUMBER: 30
+CLEAR NUMBER: 0
+CLEAR RATE: 0.0%
+
+Turn: 9 NUMBER: 56
+PLAYER-53 CLEAR! TURN: 9
+[True, 12, 5, 15, 8]
+[24, True, 29, 25, True]
+[35, 36, True, 41, 32]
+[47, 59, 60, True, 51]
+[63, 68, 61, 74, True]
+CLEAR NUMBER: 1
+CLEAR RATE: 0.4%
+
+Turn: 10 NUMBER: 5
+CLEAR NUMBER: 1
+CLEAR RATE: 0.4%
+
+Turn: 11 NUMBER: 58
+CLEAR NUMBER: 1
+CLEAR RATE: 0.4%
+
+Turn: 12 NUMBER: 51
+CLEAR NUMBER: 1
+CLEAR RATE: 0.4%
+
+Turn: 13 NUMBER: 53
+CLEAR NUMBER: 1
+CLEAR RATE: 0.4%
+
+Turn: 14 NUMBER: 22
+CLEAR NUMBER: 1
+CLEAR RATE: 0.4%
+
+Turn: 15 NUMBER: 16
+CLEAR NUMBER: 1
+CLEAR RATE: 0.4%
+
+Turn: 16 NUMBER: 44
+CLEAR NUMBER: 1
+CLEAR RATE: 0.4%
+
+Turn: 17 NUMBER: 61
+PLAYER-5 CLEAR! TURN: 17
+[True, 12, 10, True, True]
+[27, True, 18, True, 25]
+[35, 37, True, 32, 36]
+[True, 52, 47, True, 49]
+[66, 65, 69, True, True]
+PLAYER-10 CLEAR! TURN: 17
+[True, 10, 4, 6, 12]
+[True, True, 25, True, 26]
+[43, True, True, 37, 42]
+[True, True, 46, True, 48]
+[65, 63, 62, True, True]
+PLAYER-118 CLEAR! TURN: 17
+[True, 8, 13, 12, 1]
+[20, 27, 29, True, 21]
+[43, 39, True, 36, 31]
+[52, True, 50, 46, 47]
+[True, 71, 66, True, 74]
+CLEAR NUMBER: 4
+CLEAR RATE: 1.6%
+
+Turn: 18 NUMBER: 23
+PLAYER-202 CLEAR! TURN: 18
+[True, 13, 2, 1, 8]
+[True, True, True, True, True]
+[36, 43, True, 37, 41]
+[48, True, True, 49, 57]
+[64, 67, 73, 63, 74]
+PLAYER-213 CLEAR! TURN: 18
+[True, 2, True, 12, 15]
+[True, True, True, True, True]
+[35, 37, True, True, True]
+[55, 46, 49, 60, True]
+[True, 68, 71, True, 64]
+CLEAR NUMBER: 6
+CLEAR RATE: 2.4%
+
+Turn: 19 NUMBER: 10
+CLEAR NUMBER: 6
+CLEAR RATE: 2.4%
+
+Turn: 20 NUMBER: 67
+CLEAR NUMBER: 6
+CLEAR RATE: 2.4%
+
+Turn: 21 NUMBER: 62
+CLEAR NUMBER: 6
+CLEAR RATE: 2.4%
+
+Turn: 22 NUMBER: 32
+PLAYER-138 CLEAR! TURN: 22
+[True, 1, 15, 2, 12]
+[26, True, 17, 25, 20]
+[43, True, True, True, 34]
+[48, True, 57, 52, 59]
+[True, True, 70, 69, 71]
+CLEAR NUMBER: 7
+CLEAR RATE: 2.8000000000000003%
+
+Turn: 23 NUMBER: 29
+PLAYER-107 CLEAR! TURN: 23
+[True, 8, True, 9, 12]
+[True, True, True, 26, True]
+[45, True, True, True, 39]
+[52, 47, True, 49, 48]
+[73, 70, True, True, 66]
+PLAYER-228 CLEAR! TURN: 23
+[True, True, 6, 15, 4]
+[True, True, True, True, True]
+[True, 39, True, 40, 36]
+[60, True, 59, 57, 47]
+[63, 65, True, 64, 68]
+CLEAR NUMBER: 9
+CLEAR RATE: 3.5999999999999996%
+
+Turn: 24 NUMBER: 55
+PLAYER-119 CLEAR! TURN: 24
+[True, 1, True, 2, 6]
+[20, 27, True, 17, 24]
+[39, 45, True, 37, 38]
+[50, True, True, 49, 46]
+[70, True, True, 65, True]
+PLAYER-159 CLEAR! TURN: 24
+[True, 13, True, 3, 1]
+[17, True, True, True, True]
+[41, True, True, 40, True]
+[60, True, True, 49, 48]
+[True, 73, 64, 65, 71]
+CLEAR NUMBER: 11
+CLEAR RATE: 4.3999999999999995%
+
+Turn: 25 NUMBER: 69
+PLAYER-7 CLEAR! TURN: 25
+[True, 15, 12, 3, 6]
+[27, True, 26, 24, True]
+[True, 36, True, 43, 37]
+[47, 60, True, True, 57]
+[68, 64, True, True, True]
+PLAYER-222 CLEAR! TURN: 25
+[True, True, 15, 8, True]
+[True, 27, True, True, 21]
+[True, True, True, 42, 38]
+[60, True, True, 52, True]
+[True, True, 74, True, 73]
+PLAYER-234 CLEAR! TURN: 25
+[True, 11, 8, 7, 4]
+[21, True, True, 27, 25]
+[34, 31, True, 42, True]
+[60, 47, 50, True, 57]
+[74, 73, 63, 65, True]
+PLAYER-242 CLEAR! TURN: 25
+[True, 8, True, 13, 4]
+[True, 20, True, 26, 21]
+[36, 39, True, 43, 40]
+[57, 47, True, 60, True]
+[65, True, True, 71, 68]
+CLEAR NUMBER: 15
+CLEAR RATE: 6.0%
+
+Turn: 26 NUMBER: 11
+PLAYER-22 CLEAR! TURN: 26
+[True, True, 15, True, 13]
+[True, 27, True, True, True]
+[34, 38, True, True, 45]
+[46, 59, True, True, 60]
+[True, True, True, True, 73]
+PLAYER-50 CLEAR! TURN: 26
+[True, 13, 4, 8, 12]
+[25, True, 26, True, 27]
+[42, 39, True, 35, 34]
+[True, 49, 60, True, 48]
+[70, 63, True, 64, True]
+PLAYER-117 CLEAR! TURN: 26
+[True, 1, 15, 7, True]
+[25, True, True, True, True]
+[True, 45, True, 40, True]
+[46, True, 52, 49, 60]
+[True, 73, True, True, True]
+PLAYER-160 CLEAR! TURN: 26
+[True, 13, 12, True, 4]
+[True, 18, True, True, 26]
+[43, 40, True, True, 42]
+[True, 57, 46, True, 60]
+[64, 73, 70, True, 65]
+PLAYER-163 CLEAR! TURN: 26
+[True, 9, True, 2, 12]
+[21, True, True, 24, 25]
+[38, 41, True, 34, 45]
+[True, 59, True, True, 49]
+[True, 71, True, 73, 63]
+PLAYER-171 CLEAR! TURN: 26
+[True, 8, 3, True, True]
+[27, True, 20, True, True]
+[31, 37, True, 35, True]
+[True, 59, 57, True, True]
+[74, 63, True, 64, True]
+PLAYER-199 CLEAR! TURN: 26
+[True, 8, 13, 6, True]
+[True, 26, 24, True, 21]
+[43, 31, True, 45, 39]
+[57, True, 48, 50, 46]
+[True, 74, 70, 73, True]
+PLAYER-237 CLEAR! TURN: 26
+[True, True, 1, 9, 7]
+[True, True, 20, 24, True]
+[37, 39, True, 35, 45]
+[True, 50, 48, True, 47]
+[73, 70, True, True, True]
+CLEAR NUMBER: 23
+CLEAR RATE: 9.2%
+
+Turn: 27 NUMBER: 73
+PLAYER-34 CLEAR! TURN: 27
+[True, True, 1, 2, True]
+[True, True, 27, True, 26]
+[38, True, True, 40, 36]
+[True, True, True, True, 50]
+[True, 68, 63, True, True]
+PLAYER-42 CLEAR! TURN: 27
+[True, 15, True, True, 7]
+[24, True, True, 20, 21]
+[36, True, True, 45, 41]
+[46, 59, True, 48, 47]
+[True, 66, True, True, 64]
+PLAYER-76 CLEAR! TURN: 27
+[True, 2, True, True, 1]
+[True, 24, 21, True, True]
+[34, 35, True, True, 45]
+[49, 47, True, True, 57]
+[68, True, True, True, True]
+PLAYER-156 CLEAR! TURN: 27
+[True, 2, 3, 7, 1]
+[True, 24, True, True, True]
+[41, 45, True, 39, 38]
+[59, True, True, True, 50]
+[True, 65, 63, 64, 70]
+PLAYER-173 CLEAR! TURN: 27
+[True, 9, 2, 1, 12]
+[18, True, 17, True, 20]
+[42, 43, True, 36, 38]
+[50, 57, True, True, True]
+[True, True, 74, 63, True]
+PLAYER-214 CLEAR! TURN: 27
+[True, 4, 6, 13, True]
+[20, True, 27, True, True]
+[39, 41, True, 42, True]
+[True, 47, True, 57, 49]
+[True, True, True, True, True]
+CLEAR NUMBER: 29
+CLEAR RATE: 11.600000000000001%
+
+Turn: 28 NUMBER: 26
+PLAYER-44 CLEAR! TURN: 28
+[True, 8, 6, 9, True]
+[20, True, True, True, 21]
+[43, 38, True, 41, 40]
+[59, True, 49, 47, True]
+[True, 64, True, 66, True]
+PLAYER-103 CLEAR! TURN: 28
+[True, 13, True, 15, True]
+[20, 18, True, True, True]
+[True, 35, True, 43, 39]
+[True, 52, True, 50, 49]
+[66, 70, True, 74, 71]
+PLAYER-137 CLEAR! TURN: 28
+[True, True, True, 9, 1]
+[True, True, True, True, 21]
+[38, 41, True, 37, 43]
+[48, True, 46, True, 57]
+[True, 63, True, 64, True]
+PLAYER-141 CLEAR! TURN: 28
+[True, 15, 9, True, 7]
+[True, True, True, True, True]
+[45, 41, True, 31, True]
+[49, 46, True, 60, 59]
+[True, True, True, 66, 71]
+PLAYER-142 CLEAR! TURN: 28
+[True, True, 13, True, 12]
+[24, True, True, 20, 17]
+[True, 42, True, 31, 39]
+[49, 46, 50, True, 57]
+[True, 70, 64, 66, True]
+PLAYER-147 CLEAR! TURN: 28
+[True, 3, 15, 4, 7]
+[True, True, True, True, True]
+[True, 41, True, 42, 45]
+[50, 49, True, 59, 52]
+[70, 68, 63, True, True]
+PLAYER-172 CLEAR! TURN: 28
+[True, 7, True, 2, 1]
+[True, 18, True, True, True]
+[True, 34, True, True, 40]
+[49, True, 46, True, True]
+[True, 70, 66, 71, 68]
+PLAYER-176 CLEAR! TURN: 28
+[True, 7, 12, 15, True]
+[27, True, 18, True, True]
+[True, 43, True, 45, True]
+[46, True, True, 50, 49]
+[True, 68, 63, 74, True]
+PLAYER-207 CLEAR! TURN: 28
+[True, 3, 2, 9, 15]
+[21, True, True, 17, 27]
+[37, True, True, 38, True]
+[True, True, 49, True, 47]
+[74, True, 65, 63, True]
+PLAYER-223 CLEAR! TURN: 28
+[True, 3, 6, True, True]
+[27, True, True, True, True]
+[36, 38, True, 39, 37]
+[60, True, 48, 57, True]
+[True, 68, 65, True, True]
+CLEAR NUMBER: 39
+CLEAR RATE: 15.6%
+
+Turn: 29 NUMBER: 71
+PLAYER-30 CLEAR! TURN: 29
+[True, 13, True, 9, 1]
+[21, True, True, 25, 18]
+[42, 41, True, True, 43]
+[46, 60, True, 50, 49]
+[True, 74, True, 68, 64]
+PLAYER-58 CLEAR! TURN: 29
+[True, 9, 15, True, True]
+[True, True, True, True, 20]
+[31, True, True, 35, 42]
+[50, True, 48, 60, True]
+[True, 74, 68, 70, True]
+PLAYER-75 CLEAR! TURN: 29
+[True, 1, 15, 8, True]
+[20, True, True, 21, True]
+[37, 45, True, 39, 31]
+[59, True, 47, True, 49]
+[True, True, True, True, True]
+PLAYER-161 CLEAR! TURN: 29
+[True, True, 1, 7, 15]
+[24, True, 17, 20, 27]
+[31, 38, True, 36, 42]
+[57, 48, True, 60, True]
+[True, True, True, True, True]
+PLAYER-201 CLEAR! TURN: 29
+[True, 15, True, 6, 7]
+[True, True, True, True, 21]
+[True, 41, True, 45, 38]
+[True, 60, 47, 50, True]
+[True, 70, 64, True, True]
+CLEAR NUMBER: 44
+CLEAR RATE: 17.599999999999998%
+
+Turn: 30 NUMBER: 21
+PLAYER-9 CLEAR! TURN: 30
+[True, 1, 6, 2, True]
+[True, True, True, True, True]
+[37, 31, True, True, 40]
+[46, True, 48, True, 52]
+[64, True, True, 68, True]
+PLAYER-61 CLEAR! TURN: 30
+[True, 8, True, 3, True]
+[True, 24, True, 18, True]
+[True, 37, True, 42, 31]
+[True, 50, True, 59, 48]
+[65, True, True, 74, 70]
+PLAYER-68 CLEAR! TURN: 30
+[True, 7, 1, 15, 3]
+[True, True, True, True, True]
+[True, 31, True, 42, 35]
+[52, True, 59, 49, True]
+[63, True, 70, True, 64]
+PLAYER-73 CLEAR! TURN: 30
+[True, 12, True, 3, 7]
+[25, 27, True, 17, 18]
+[40, 31, True, True, True]
+[True, 52, True, 57, 46]
+[True, 65, True, 74, 68]
+PLAYER-74 CLEAR! TURN: 30
+[True, True, True, 15, 6]
+[True, True, True, True, True]
+[True, 41, True, 31, 35]
+[60, 46, True, True, True]
+[True, True, True, 63, True]
+PLAYER-85 CLEAR! TURN: 30
+[True, 7, True, 9, 15]
+[24, True, True, 27, True]
+[True, 45, True, True, 35]
+[60, 49, True, 46, 57]
+[True, 68, True, 66, True]
+PLAYER-185 CLEAR! TURN: 30
+[True, True, 15, 13, 6]
+[True, True, True, True, True]
+[36, True, True, 40, 31]
+[59, True, 49, 48, 46]
+[65, 63, True, True, True]
+PLAYER-221 CLEAR! TURN: 30
+[True, True, True, 2, 9]
+[17, True, 18, True, 20]
+[36, True, True, 42, 38]
+[60, True, 49, 47, True]
+[True, True, 64, 63, True]
+PLAYER-247 CLEAR! TURN: 30
+[True, 8, 4, True, True]
+[True, True, True, True, True]
+[42, 45, True, 35, 38]
+[True, 52, True, 57, True]
+[True, 63, True, 64, True]
+CLEAR NUMBER: 53
+CLEAR RATE: 21.2%
+
+Turn: 31 NUMBER: 20
+PLAYER-35 CLEAR! TURN: 31
+[True, 7, 13, True, 9]
+[27, 18, 25, True, True]
+[41, 34, True, True, 43]
+[60, 48, True, True, 50]
+[65, 74, True, True, True]
+PLAYER-41 CLEAR! TURN: 31
+[True, True, 1, True, True]
+[True, 18, True, True, True]
+[35, 41, True, 45, 42]
+[50, True, 59, 46, 60]
+[True, True, True, True, 68]
+PLAYER-66 CLEAR! TURN: 31
+[True, 7, 13, 2, 8]
+[True, True, 17, True, 18]
+[35, 34, True, True, True]
+[47, 60, True, True, 59]
+[64, 63, 70, True, True]
+PLAYER-110 CLEAR! TURN: 31
+[True, 2, True, 6, 8]
+[True, True, True, True, True]
+[True, 41, True, 34, 38]
+[True, True, True, 48, True]
+[True, True, 70, 64, 65]
+PLAYER-120 CLEAR! TURN: 31
+[True, True, 12, 4, 2]
+[True, True, True, True, True]
+[True, 38, True, 43, 35]
+[52, 60, True, True, 57]
+[64, True, True, True, True]
+PLAYER-134 CLEAR! TURN: 31
+[True, 13, 6, 15, 7]
+[True, True, True, True, True]
+[35, 34, True, True, True]
+[True, True, 59, 49, 60]
+[True, True, True, True, 68]
+PLAYER-143 CLEAR! TURN: 31
+[True, 4, True, True, 13]
+[True, True, True, True, True]
+[42, 36, True, 39, 35]
+[49, True, 59, True, 48]
+[True, True, True, True, 70]
+PLAYER-175 CLEAR! TURN: 31
+[True, 4, True, 1, 2]
+[True, True, True, 18, True]
+[39, 42, True, 37, 41]
+[True, True, True, 50, 52]
+[68, True, True, True, 64]
+PLAYER-178 CLEAR! TURN: 31
+[True, 7, True, 8, 13]
+[True, True, True, True, True]
+[37, 39, True, 42, True]
+[48, True, 49, True, 52]
+[True, 65, 64, True, True]
+PLAYER-232 CLEAR! TURN: 31
+[True, 9, 4, 8, True]
+[True, True, True, True, True]
+[31, 40, True, 42, True]
+[True, 57, 59, 48, True]
+[True, 63, True, True, 66]
+CLEAR NUMBER: 63
+CLEAR RATE: 25.2%
+
+Turn: 32 NUMBER: 50
+PLAYER-20 CLEAR! TURN: 32
+[True, True, 1, 12, 4]
+[25, True, True, True, True]
+[40, 37, True, True, 43]
+[True, 46, True, 48, 52]
+[65, 68, True, 74, 70]
+PLAYER-24 CLEAR! TURN: 32
+[True, True, 9, 12, True]
+[True, True, True, True, 25]
+[38, 39, True, 36, 45]
+[57, 49, True, True, True]
+[68, 74, True, 70, True]
+PLAYER-169 CLEAR! TURN: 32
+[True, 4, True, 8, True]
+[True, 18, True, True, True]
+[True, 42, True, 40, True]
+[46, 49, True, True, True]
+[True, 65, 64, True, True]
+PLAYER-174 CLEAR! TURN: 32
+[True, 12, 3, 4, True]
+[True, True, True, True, 24]
+[41, True, True, 35, 36]
+[57, True, True, 49, True]
+[True, True, 74, 70, 68]
+PLAYER-192 CLEAR! TURN: 32
+[True, 12, 9, True, True]
+[27, 24, True, True, 18]
+[36, 34, True, 35, True]
+[True, True, 52, 47, True]
+[True, True, 70, 65, 63]
+PLAYER-241 CLEAR! TURN: 32
+[True, 2, 4, True, True]
+[True, True, True, 27, True]
+[43, 36, True, 39, 31]
+[True, True, True, True, 59]
+[True, 66, 65, 68, True]
+CLEAR NUMBER: 69
+CLEAR RATE: 27.6%
+
+Turn: 33 NUMBER: 74
+PLAYER-31 CLEAR! TURN: 33
+[True, 9, 4, 15, True]
+[18, True, True, True, True]
+[40, 35, True, 42, True]
+[True, True, True, 47, 59]
+[True, 63, True, True, True]
+PLAYER-71 CLEAR! TURN: 33
+[True, 9, True, True, True]
+[24, 27, 25, True, 18]
+[41, 39, True, 31, 34]
+[48, 47, True, 52, 57]
+[True, True, True, True, True]
+PLAYER-84 CLEAR! TURN: 33
+[True, 9, 7, 6, 12]
+[18, True, True, 24, 25]
+[42, 40, True, True, True]
+[60, 47, True, 59, True]
+[True, True, True, True, True]
+PLAYER-98 CLEAR! TURN: 33
+[True, True, 12, 7, 8]
+[True, 24, True, True, True]
+[True, 40, True, 43, True]
+[True, True, 60, True, 57]
+[True, True, 70, True, True]
+PLAYER-132 CLEAR! TURN: 33
+[True, 9, True, 3, 8]
+[True, True, True, 18, True]
+[42, 41, True, 31, 45]
+[True, 60, 49, True, True]
+[True, 70, True, 65, True]
+PLAYER-140 CLEAR! TURN: 33
+[True, 7, 2, 8, 4]
+[True, 17, True, 27, True]
+[45, 43, True, 38, 39]
+[True, 49, 57, 47, True]
+[True, True, True, True, True]
+CLEAR NUMBER: 75
+CLEAR RATE: 30.0%
+
+Turn: 34 NUMBER: 1
+CLEAR NUMBER: 75
+CLEAR RATE: 30.0%
+
+Turn: 35 NUMBER: 48
+PLAYER-52 CLEAR! TURN: 35
+[True, 12, True, True, 4]
+[True, True, True, True, 25]
+[38, 41, True, True, 36]
+[True, 49, True, 57, 52]
+[66, True, True, True, 64]
+PLAYER-62 CLEAR! TURN: 35
+[True, 6, 13, 12, True]
+[True, 25, True, True, 24]
+[True, 34, True, 31, 40]
+[True, True, True, True, 47]
+[True, True, True, 65, True]
+PLAYER-112 CLEAR! TURN: 35
+[True, True, 4, True, True]
+[18, True, True, True, True]
+[40, 43, True, 36, True]
+[True, True, 59, 46, 47]
+[True, True, True, 68, True]
+PLAYER-226 CLEAR! TURN: 35
+[True, True, 6, 15, True]
+[18, True, 25, True, True]
+[37, True, True, 31, 35]
+[True, True, True, 60, 57]
+[66, True, True, True, True]
+PLAYER-229 CLEAR! TURN: 35
+[True, 2, 8, 12, True]
+[True, True, True, True, 24]
+[43, 35, True, 45, 39]
+[True, True, True, True, True]
+[66, True, True, True, True]
+CLEAR NUMBER: 80
+CLEAR RATE: 32.0%
+
+Turn: 36 NUMBER: 18
+PLAYER-6 CLEAR! TURN: 36
+[True, 4, 15, 6, 9]
+[True, True, True, True, True]
+[42, 41, True, 35, 37]
+[59, 49, 46, True, True]
+[True, True, 65, True, True]
+PLAYER-11 CLEAR! TURN: 36
+[True, 15, True, 6, 3]
+[True, True, True, True, True]
+[37, 35, True, 41, 40]
+[52, 46, 47, 59, True]
+[True, 70, True, True, True]
+PLAYER-37 CLEAR! TURN: 36
+[True, 3, True, 13, 2]
+[True, True, True, True, True]
+[31, 38, True, True, 37]
+[59, 52, True, True, True]
+[65, 64, 68, 63, True]
+PLAYER-72 CLEAR! TURN: 36
+[True, 7, True, 4, 9]
+[True, True, True, True, True]
+[43, 40, True, 36, 35]
+[52, 49, True, 60, True]
+[63, True, True, 68, 66]
+PLAYER-77 CLEAR! TURN: 36
+[True, 8, 7, True, 6]
+[True, True, True, True, True]
+[45, 42, True, 39, 37]
+[True, True, 49, 60, True]
+[68, 70, True, True, True]
+PLAYER-95 CLEAR! TURN: 36
+[True, 12, 4, 7, True]
+[True, True, True, True, True]
+[43, 35, True, 45, 31]
+[46, True, 49, True, True]
+[64, 66, True, 70, True]
+PLAYER-101 CLEAR! TURN: 36
+[True, 13, 3, 7, True]
+[True, True, True, True, True]
+[42, True, True, 36, 40]
+[True, True, True, 60, True]
+[65, True, True, 66, True]
+PLAYER-144 CLEAR! TURN: 36
+[True, True, 4, 1, 7]
+[True, True, True, True, True]
+[31, 45, True, 35, 43]
+[True, 57, 47, True, True]
+[True, True, 64, True, 68]
+PLAYER-146 CLEAR! TURN: 36
+[True, 8, 3, 15, True]
+[True, True, True, True, True]
+[40, 41, True, 45, 42]
+[True, True, 47, True, 52]
+[65, True, True, True, 66]
+PLAYER-168 CLEAR! TURN: 36
+[True, 15, 3, 8, True]
+[True, True, True, True, True]
+[True, 37, True, 31, 42]
+[True, 46, True, 49, True]
+[64, True, 68, True, True]
+PLAYER-238 CLEAR! TURN: 36
+[True, 13, 9, True, True]
+[True, 25, True, True, True]
+[43, 35, True, 36, 41]
+[57, True, True, 47, True]
+[True, True, True, True, 63]
+CLEAR NUMBER: 91
+CLEAR RATE: 36.4%
+
+Turn: 37 NUMBER: 39
+PLAYER-21 CLEAR! TURN: 37
+[True, True, 1, True, 8]
+[True, True, True, True, 27]
+[42, 40, True, True, True]
+[True, True, 47, True, 57]
+[True, 70, True, True, 68]
+PLAYER-93 CLEAR! TURN: 37
+[True, 15, 13, 8, True]
+[17, True, True, 27, True]
+[41, 38, True, 36, True]
+[52, 57, True, True, True]
+[True, 63, True, True, True]
+PLAYER-94 CLEAR! TURN: 37
+[True, 2, 6, 13, 4]
+[True, True, True, True, 27]
+[True, 40, True, 36, 37]
+[True, 46, True, 47, 49]
+[True, True, 63, True, True]
+PLAYER-200 CLEAR! TURN: 37
+[True, 12, True, 7, True]
+[True, True, 17, True, True]
+[34, True, True, 42, True]
+[47, 46, True, 49, True]
+[True, 68, True, True, True]
+PLAYER-244 CLEAR! TURN: 37
+[True, True, 6, True, 9]
+[24, True, 17, True, True]
+[True, True, True, 36, 45]
+[True, True, True, 47, True]
+[68, True, 65, 66, 64]
+CLEAR NUMBER: 96
+CLEAR RATE: 38.4%
+
+Turn: 38 NUMBER: 52
+PLAYER-26 CLEAR! TURN: 38
+[True, 13, 7, True, 15]
+[True, 27, True, True, True]
+[True, True, True, 41, 40]
+[True, True, True, True, True]
+[64, True, 66, True, 63]
+PLAYER-69 CLEAR! TURN: 38
+[True, True, 2, 7, 6]
+[24, 25, True, True, 17]
+[38, True, True, 31, True]
+[True, True, True, True, True]
+[True, True, 65, True, True]
+PLAYER-81 CLEAR! TURN: 38
+[True, True, 9, True, True]
+[27, True, True, True, True]
+[35, 34, True, 31, 45]
+[True, True, True, True, True]
+[64, 70, True, 68, 65]
+PLAYER-113 CLEAR! TURN: 38
+[True, True, 3, True, 12]
+[True, 17, True, True, True]
+[37, True, True, 34, 40]
+[True, True, True, True, True]
+[True, True, 68, True, True]
+PLAYER-121 CLEAR! TURN: 38
+[True, 13, 3, True, 12]
+[True, True, True, True, 27]
+[True, 45, True, True, True]
+[True, True, True, True, 59]
+[True, True, 65, True, True]
+PLAYER-179 CLEAR! TURN: 38
+[True, 12, 3, 4, 1]
+[True, True, 25, True, 27]
+[True, True, True, True, 45]
+[True, True, 57, True, 60]
+[64, 63, True, 66, True]
+PLAYER-180 CLEAR! TURN: 38
+[True, 6, 8, 9, 7]
+[True, True, 27, True, True]
+[True, 36, True, 37, True]
+[True, True, True, True, True]
+[64, 70, True, True, True]
+PLAYER-191 CLEAR! TURN: 38
+[True, 2, True, True, True]
+[True, 27, True, True, True]
+[37, 36, True, True, 40]
+[True, 46, True, True, True]
+[True, True, 65, True, 68]
+PLAYER-206 CLEAR! TURN: 38
+[True, 3, 7, 6, 15]
+[True, True, 27, True, 17]
+[True, 34, True, 43, 38]
+[True, 47, True, True, True]
+[65, 70, True, 64, True]
+PLAYER-225 CLEAR! TURN: 38
+[True, True, 15, 7, 2]
+[True, True, 27, True, 24]
+[31, 41, True, 43, 35]
+[True, True, True, True, True]
+[63, True, 68, True, 66]
+PLAYER-240 CLEAR! TURN: 38
+[True, 3, 4, 6, 9]
+[True, True, 25, True, True]
+[True, 37, True, 31, 40]
+[59, 49, True, True, 46]
+[65, 70, True, 63, True]
+CLEAR NUMBER: 107
+CLEAR RATE: 42.8%
+
+Turn: 39 NUMBER: 37
+PLAYER-25 CLEAR! TURN: 39
+[True, True, True, 2, True]
+[True, True, True, 27, 25]
+[38, True, True, 34, 42]
+[True, True, 49, True, True]
+[True, True, 65, 63, True]
+PLAYER-91 CLEAR! TURN: 39
+[True, True, 6, 3, 1]
+[True, True, True, 25, True]
+[34, 38, True, True, True]
+[True, 47, True, 46, True]
+[68, True, 65, 64, True]
+PLAYER-100 CLEAR! TURN: 39
+[True, True, 7, 9, True]
+[True, 17, True, True, True]
+[45, True, True, 38, True]
+[47, True, 46, 60, True]
+[65, True, 64, True, True]
+PLAYER-162 CLEAR! TURN: 39
+[True, 7, 4, 13, True]
+[True, True, True, 27, 17]
+[True, True, True, True, True]
+[True, True, 57, True, True]
+[True, 68, True, True, True]
+CLEAR NUMBER: 111
+CLEAR RATE: 44.4%
+
+Turn: 40 NUMBER: 25
+PLAYER-15 CLEAR! TURN: 40
+[True, 8, True, 3, 2]
+[17, True, True, True, True]
+[45, True, True, 42, 41]
+[47, 46, 57, True, True]
+[66, True, 64, True, True]
+PLAYER-39 CLEAR! TURN: 40
+[True, 4, True, True, 6]
+[True, True, True, True, True]
+[38, 42, True, 34, 43]
+[59, True, 57, 60, 46]
+[True, 63, True, True, True]
+PLAYER-43 CLEAR! TURN: 40
+[True, 4, 6, 7, True]
+[True, True, True, True, True]
+[34, True, True, 40, True]
+[True, True, 49, 46, 47]
+[True, True, True, True, 66]
+PLAYER-46 CLEAR! TURN: 40
+[True, 12, 13, True, 3]
+[True, True, True, True, True]
+[True, 35, True, 45, True]
+[47, True, 46, True, True]
+[True, 63, True, 68, 66]
+PLAYER-55 CLEAR! TURN: 40
+[True, True, 3, 13, 6]
+[True, True, True, True, True]
+[True, 42, True, True, 43]
+[True, True, 46, True, True]
+[63, 66, 70, True, True]
+PLAYER-60 CLEAR! TURN: 40
+[True, 13, 2, 12, 6]
+[True, True, True, True, True]
+[31, True, True, 34, 41]
+[59, True, True, 49, True]
+[64, 65, 70, True, True]
+PLAYER-104 CLEAR! TURN: 40
+[True, True, 12, 7, 2]
+[True, True, True, True, True]
+[45, 40, True, 31, True]
+[46, True, True, 49, 59]
+[True, True, True, 65, 68]
+PLAYER-109 CLEAR! TURN: 40
+[True, 3, 6, 13, True]
+[True, True, True, True, 17]
+[36, 35, True, 40, 42]
+[46, True, True, True, True]
+[True, 63, True, 64, 66]
+PLAYER-123 CLEAR! TURN: 40
+[True, 9, True, True, 15]
+[True, True, True, True, True]
+[34, 43, True, 41, 38]
+[49, 47, True, True, True]
+[True, True, 65, True, 66]
+PLAYER-124 CLEAR! TURN: 40
+[True, True, 4, True, 12]
+[17, True, True, 24, True]
+[42, True, True, True, 34]
+[True, True, 59, 46, 47]
+[63, True, True, 66, True]
+PLAYER-129 CLEAR! TURN: 40
+[True, 15, 2, 9, 4]
+[True, True, True, True, True]
+[True, 41, True, 36, 38]
+[59, True, True, True, 47]
+[65, True, 66, True, True]
+PLAYER-131 CLEAR! TURN: 40
+[True, True, 8, 7, 2]
+[True, True, True, True, True]
+[True, 40, True, 34, 35]
+[47, True, True, 60, True]
+[65, 64, 66, True, True]
+PLAYER-139 CLEAR! TURN: 40
+[True, True, True, 8, True]
+[True, True, True, True, True]
+[38, 40, True, 42, 41]
+[49, 57, True, True, True]
+[True, True, 63, True, True]
+PLAYER-148 CLEAR! TURN: 40
+[True, 15, True, 9, 7]
+[True, True, True, True, True]
+[42, 43, True, 34, True]
+[True, True, 59, 57, True]
+[True, 70, 65, True, True]
+PLAYER-157 CLEAR! TURN: 40
+[True, 13, True, True, True]
+[True, True, True, True, True]
+[True, True, True, 38, True]
+[True, True, 46, True, 59]
+[64, 68, True, 70, True]
+PLAYER-166 CLEAR! TURN: 40
+[True, True, 6, 9, True]
+[True, True, True, True, True]
+[42, 34, True, 43, 40]
+[47, 46, True, True, True]
+[68, True, True, True, 63]
+PLAYER-187 CLEAR! TURN: 40
+[True, True, 1, 9, 15]
+[True, True, True, True, True]
+[True, 36, True, 35, 40]
+[True, 59, 46, True, True]
+[True, True, True, 63, 64]
+PLAYER-188 CLEAR! TURN: 40
+[True, 3, 12, 6, 15]
+[True, True, True, True, True]
+[34, True, True, True, 31]
+[57, True, True, True, True]
+[True, True, 68, True, 64]
+PLAYER-190 CLEAR! TURN: 40
+[True, 15, 9, 12, 13]
+[True, True, True, True, True]
+[45, 40, True, True, True]
+[60, True, True, True, True]
+[64, True, 68, True, 63]
+PLAYER-208 CLEAR! TURN: 40
+[True, 13, 15, 9, 4]
+[True, True, True, True, True]
+[42, 31, True, 43, True]
+[True, True, 57, True, True]
+[True, True, True, 66, 64]
+PLAYER-209 CLEAR! TURN: 40
+[True, True, 12, 4, 2]
+[True, True, True, True, True]
+[41, True, True, 45, 43]
+[59, 57, True, True, 49]
+[True, True, True, 68, True]
+PLAYER-215 CLEAR! TURN: 40
+[True, 8, True, 9, True]
+[True, True, 17, True, 27]
+[43, 40, True, 34, 35]
+[True, 46, True, True, 60]
+[True, True, True, 66, True]
+PLAYER-217 CLEAR! TURN: 40
+[True, True, 12, 3, 8]
+[True, True, True, True, True]
+[31, 41, True, True, 36]
+[True, 57, 47, True, True]
+[True, 63, True, True, True]
+PLAYER-219 CLEAR! TURN: 40
+[True, 15, True, True, 2]
+[True, True, True, True, True]
+[True, 40, True, 41, 35]
+[49, True, True, True, 46]
+[True, True, 65, 66, 68]
+PLAYER-220 CLEAR! TURN: 40
+[True, 3, 2, 12, 4]
+[True, True, True, True, True]
+[38, True, True, True, 43]
+[57, True, True, 60, 47]
+[True, 66, True, True, True]
+PLAYER-239 CLEAR! TURN: 40
+[True, 15, 4, 8, 13]
+[True, True, True, True, True]
+[True, 45, True, True, True]
+[46, True, True, True, 59]
+[True, True, True, True, 68]
+PLAYER-243 CLEAR! TURN: 40
+[True, True, 12, 1, True]
+[True, True, True, 27, True]
+[True, 43, True, 36, 38]
+[59, True, 46, True, 60]
+[True, True, 66, True, True]
+CLEAR NUMBER: 138
+CLEAR RATE: 55.2%
+
+Turn: 41 NUMBER: 46
+PLAYER-0 CLEAR! TURN: 41
+[True, 12, 4, 2, 7]
+[True, 24, True, 17, True]
+[True, 38, True, 36, 34]
+[True, True, True, True, True]
+[True, True, True, 66, True]
+PLAYER-17 CLEAR! TURN: 41
+[True, True, 7, 6, 1]
+[27, True, True, True, True]
+[True, 36, True, 38, 40]
+[True, True, True, True, True]
+[70, True, True, True, 65]
+PLAYER-36 CLEAR! TURN: 41
+[True, 2, True, 1, 4]
+[24, True, 17, True, True]
+[True, 36, True, 38, 43]
+[47, True, True, True, 49]
+[70, 64, 68, True, True]
+PLAYER-99 CLEAR! TURN: 41
+[True, 3, 12, 6, True]
+[True, True, True, 24, True]
+[43, True, True, 38, 42]
+[True, True, True, True, True]
+[True, 66, True, True, 70]
+PLAYER-182 CLEAR! TURN: 41
+[True, 7, 12, 3, True]
+[True, True, True, 17, True]
+[45, 43, True, 34, True]
+[True, True, True, 60, True]
+[True, 63, 64, True, True]
+PLAYER-197 CLEAR! TURN: 41
+[True, True, True, 4, 7]
+[True, True, True, 27, True]
+[True, True, True, 35, 31]
+[49, True, True, 59, True]
+[68, 64, True, True, 65]
+PLAYER-212 CLEAR! TURN: 41
+[True, True, 7, 13, True]
+[27, True, True, True, True]
+[41, 40, True, True, 45]
+[True, True, True, True, True]
+[64, 63, 68, True, True]
+PLAYER-216 CLEAR! TURN: 41
+[True, 6, 9, 3, True]
+[True, True, 17, 27, True]
+[35, 43, True, 36, True]
+[True, True, True, 60, True]
+[65, 70, True, 66, True]
+PLAYER-236 CLEAR! TURN: 41
+[True, 4, 2, 13, 6]
+[True, True, 17, True, True]
+[45, True, True, 42, 41]
+[True, True, 47, True, True]
+[66, True, 70, True, True]
+CLEAR NUMBER: 147
+CLEAR RATE: 58.8%
+
+Turn: 42 NUMBER: 38
+PLAYER-90 CLEAR! TURN: 42
+[True, True, 9, 15, True]
+[True, True, True, True, 17]
+[True, True, True, True, True]
+[True, 60, True, True, True]
+[68, True, True, 66, True]
+PLAYER-224 CLEAR! TURN: 42
+[True, True, 4, 12, 15]
+[True, True, True, 24, 17]
+[34, True, True, 45, 43]
+[True, True, 59, True, True]
+[63, True, 65, 68, True]
+CLEAR NUMBER: 149
+CLEAR RATE: 59.599999999999994%
+
+Turn: 43 NUMBER: 36
+PLAYER-19 CLEAR! TURN: 43
+[True, True, 7, True, 12]
+[True, True, 17, True, 24]
+[True, 40, True, True, 45]
+[True, True, 59, True, True]
+[63, True, True, True, True]
+PLAYER-40 CLEAR! TURN: 43
+[True, 2, True, 13, 15]
+[True, True, 24, True, True]
+[True, True, True, True, True]
+[True, 60, True, True, True]
+[True, True, 64, True, 70]
+PLAYER-70 CLEAR! TURN: 43
+[True, 9, True, 8, 13]
+[True, True, 24, 17, True]
+[True, True, True, True, True]
+[60, True, 59, 57, True]
+[70, 66, True, True, True]
+PLAYER-116 CLEAR! TURN: 43
+[True, 9, 15, True, 12]
+[True, 24, True, True, True]
+[41, 35, True, True, 31]
+[59, True, True, True, True]
+[True, True, 63, True, True]
+PLAYER-133 CLEAR! TURN: 43
+[True, True, True, 9, 6]
+[True, 27, True, True, 24]
+[True, True, True, 31, 45]
+[True, True, 59, True, True]
+[True, 65, True, 70, True]
+PLAYER-145 CLEAR! TURN: 43
+[True, True, 13, 8, 2]
+[True, True, True, 24, True]
+[45, True, True, 34, True]
+[True, True, True, True, 57]
+[True, True, 64, True, True]
+PLAYER-181 CLEAR! TURN: 43
+[True, 2, True, True, 6]
+[True, 27, 17, True, True]
+[True, True, True, True, True]
+[59, True, True, 57, 47]
+[63, True, True, 68, 66]
+CLEAR NUMBER: 156
+CLEAR RATE: 62.4%
+
+Turn: 44 NUMBER: 47
+PLAYER-3 CLEAR! TURN: 44
+[True, 8, 4, True, 9]
+[True, True, 17, True, True]
+[True, True, True, 35, 41]
+[59, 60, 49, True, True]
+[63, True, True, 64, True]
+PLAYER-80 CLEAR! TURN: 44
+[True, 13, 7, True, True]
+[True, True, 24, True, True]
+[True, True, True, True, 34]
+[True, True, 57, True, True]
+[True, True, 66, 68, True]
+PLAYER-106 CLEAR! TURN: 44
+[True, True, 12, 13, 7]
+[True, True, True, True, 27]
+[42, 34, True, True, 35]
+[True, True, True, True, True]
+[True, 68, 65, 66, True]
+PLAYER-127 CLEAR! TURN: 44
+[True, True, 15, True, 2]
+[17, True, 24, True, True]
+[True, 41, True, 35, True]
+[True, True, True, True, True]
+[True, True, True, 64, True]
+PLAYER-155 CLEAR! TURN: 44
+[True, True, 8, 12, 6]
+[24, True, True, True, True]
+[True, True, True, 45, True]
+[True, True, True, True, True]
+[True, 68, True, True, True]
+PLAYER-183 CLEAR! TURN: 44
+[True, 8, 3, True, 1]
+[27, True, True, True, True]
+[True, 45, True, 31, 34]
+[True, True, True, True, True]
+[70, True, True, True, 68]
+PLAYER-204 CLEAR! TURN: 44
+[True, 3, 1, 6, 4]
+[True, True, True, 27, True]
+[35, 42, True, True, True]
+[True, True, True, True, 49]
+[True, True, True, 70, 64]
+PLAYER-218 CLEAR! TURN: 44
+[True, 9, 12, 15, 4]
+[True, 24, True, True, True]
+[40, 35, True, 34, True]
+[True, True, True, True, True]
+[True, True, 65, True, True]
+PLAYER-230 CLEAR! TURN: 44
+[True, 8, True, True, True]
+[True, True, True, 27, True]
+[41, 45, True, 42, True]
+[True, True, True, True, True]
+[True, True, 66, 64, 65]
+CLEAR NUMBER: 165
+CLEAR RATE: 66.0%
+
+Turn: 45 NUMBER: 31
+PLAYER-2 CLEAR! TURN: 45
+[True, 12, 2, True, 4]
+[27, True, True, True, True]
+[True, True, True, True, True]
+[True, True, True, 57, True]
+[True, 63, True, True, 66]
+PLAYER-45 CLEAR! TURN: 45
+[True, True, 8, 3, True]
+[True, 17, True, True, True]
+[True, 41, True, 35, True]
+[True, 49, True, True, True]
+[True, 65, True, True, True]
+PLAYER-88 CLEAR! TURN: 45
+[True, 8, True, 2, True]
+[True, True, True, 24, True]
+[True, 42, True, True, True]
+[True, True, 59, True, True]
+[True, True, 64, 70, True]
+PLAYER-205 CLEAR! TURN: 45
+[True, 13, 8, True, 3]
+[True, True, True, 17, True]
+[True, True, True, 42, True]
+[True, 57, True, 60, True]
+[True, True, True, True, 65]
+PLAYER-233 CLEAR! TURN: 45
+[True, 2, 9, True, 15]
+[True, True, 24, True, True]
+[True, True, True, True, True]
+[True, True, 60, True, True]
+[True, True, 65, 68, 63]
+CLEAR NUMBER: 170
+CLEAR RATE: 68.0%
+
+Turn: 46 NUMBER: 13
+PLAYER-14 CLEAR! TURN: 46
+[True, 3, 15, True, 2]
+[17, True, True, True, True]
+[True, 41, True, 40, True]
+[True, 60, True, True, True]
+[True, True, 66, True, True]
+PLAYER-23 CLEAR! TURN: 46
+[True, 3, True, 9, True]
+[True, True, True, 24, True]
+[True, True, True, 43, True]
+[True, True, True, True, 59]
+[66, True, True, True, 65]
+PLAYER-56 CLEAR! TURN: 46
+[True, True, 6, 12, True]
+[17, True, 24, True, True]
+[35, True, True, True, True]
+[True, 60, True, True, True]
+[True, 68, 63, 65, True]
+PLAYER-78 CLEAR! TURN: 46
+[True, 15, 9, True, 3]
+[True, 24, True, True, True]
+[True, True, True, True, 43]
+[57, 59, True, True, True]
+[True, 64, True, True, True]
+PLAYER-152 CLEAR! TURN: 46
+[True, 2, 9, 8, 3]
+[True, True, True, True, 27]
+[True, 35, True, 45, True]
+[True, True, 49, 60, True]
+[True, 66, True, True, 68]
+PLAYER-164 CLEAR! TURN: 46
+[True, 6, 12, 3, 9]
+[True, True, 17, 27, True]
+[True, True, True, True, 43]
+[True, 60, True, 57, True]
+[True, True, True, 66, True]
+PLAYER-227 CLEAR! TURN: 46
+[True, True, 4, 15, True]
+[True, True, True, 17, True]
+[True, 35, True, 43, True]
+[60, True, True, True, 59]
+[True, True, 65, 66, True]
+CLEAR NUMBER: 177
+CLEAR RATE: 70.8%
+
+Turn: 47 NUMBER: 24
+PLAYER-8 CLEAR! TURN: 47
+[True, True, True, 7, 8]
+[True, True, True, True, 17]
+[True, 34, True, 40, 41]
+[57, 49, True, True, True]
+[63, 68, True, True, True]
+PLAYER-13 CLEAR! TURN: 47
+[True, 12, 9, True, 8]
+[True, True, True, True, True]
+[True, True, True, 35, 34]
+[59, True, 60, True, True]
+[65, 66, True, 70, 68]
+PLAYER-27 CLEAR! TURN: 47
+[True, 12, True, 9, 4]
+[True, True, 27, True, True]
+[34, 41, True, True, 43]
+[59, 49, True, True, True]
+[63, 64, True, 66, True]
+PLAYER-28 CLEAR! TURN: 47
+[True, 8, True, 1, 7]
+[True, True, True, True, True]
+[True, True, True, 42, True]
+[True, True, True, 59, 60]
+[True, 66, 70, 64, True]
+PLAYER-32 CLEAR! TURN: 47
+[True, 9, 15, 8, 2]
+[True, True, True, True, True]
+[True, 40, True, True, True]
+[True, True, True, 59, True]
+[True, 68, True, True, 64]
+PLAYER-47 CLEAR! TURN: 47
+[True, 15, 4, 6, 3]
+[True, True, True, True, True]
+[True, True, True, True, 35]
+[True, True, 57, True, True]
+[True, 68, True, True, True]
+PLAYER-49 CLEAR! TURN: 47
+[True, True, 6, True, 1]
+[True, True, True, True, True]
+[40, 34, True, 35, True]
+[True, 57, True, 60, True]
+[True, 66, True, True, 70]
+PLAYER-82 CLEAR! TURN: 47
+[True, 1, 7, 12, True]
+[True, True, True, True, True]
+[41, 35, True, True, True]
+[True, 60, True, True, True]
+[True, True, 66, True, 64]
+PLAYER-87 CLEAR! TURN: 47
+[True, True, 9, True, 4]
+[True, True, True, True, True]
+[40, True, True, 43, True]
+[True, True, 59, True, 60]
+[True, True, 70, 63, True]
+PLAYER-96 CLEAR! TURN: 47
+[True, True, True, 12, 6]
+[True, True, True, True, True]
+[45, True, True, 35, True]
+[True, 59, True, True, True]
+[64, True, 65, True, True]
+PLAYER-130 CLEAR! TURN: 47
+[True, 12, True, 3, 2]
+[True, True, True, True, True]
+[True, 43, True, 40, 34]
+[True, 57, True, True, True]
+[66, True, 70, True, True]
+PLAYER-158 CLEAR! TURN: 47
+[True, True, True, 12, 15]
+[17, True, 27, True, True]
+[45, True, True, 41, 43]
+[True, True, True, 60, True]
+[True, True, 64, 65, True]
+PLAYER-170 CLEAR! TURN: 47
+[True, True, 8, 7, 9]
+[True, True, True, True, True]
+[True, 34, True, True, True]
+[49, True, True, 59, True]
+[65, True, True, 70, 66]
+PLAYER-186 CLEAR! TURN: 47
+[True, 9, 3, 6, 12]
+[True, True, True, True, True]
+[42, 43, True, True, 45]
+[60, True, True, True, 49]
+[70, 68, True, 65, True]
+PLAYER-194 CLEAR! TURN: 47
+[True, 6, 2, 8, 9]
+[True, True, True, True, True]
+[40, True, True, True, 43]
+[True, 59, 57, 49, True]
+[True, 70, 68, True, 65]
+PLAYER-203 CLEAR! TURN: 47
+[True, 3, 6, True, True]
+[True, True, 27, True, True]
+[34, 45, True, True, 35]
+[57, True, True, True, True]
+[63, True, 70, True, True]
+PLAYER-231 CLEAR! TURN: 47
+[True, 12, True, 15, True]
+[True, True, True, True, True]
+[34, 45, True, 43, True]
+[True, True, True, True, 49]
+[66, True, 64, True, True]
+PLAYER-245 CLEAR! TURN: 47
+[True, True, True, True, 3]
+[True, True, True, True, True]
+[True, 35, True, 45, True]
+[49, 57, True, True, True]
+[70, 65, True, 64, 66]
+PLAYER-246 CLEAR! TURN: 47
+[True, 8, 12, 7, 15]
+[True, True, True, True, True]
+[43, True, True, True, True]
+[True, True, True, True, 57]
+[True, True, 68, 64, True]
+PLAYER-249 CLEAR! TURN: 47
+[True, 9, 1, 6, 8]
+[True, True, True, True, True]
+[45, 42, True, True, 35]
+[True, True, 59, 57, 60]
+[True, True, 65, 68, True]
+CLEAR NUMBER: 197
+CLEAR RATE: 78.8%
+
+Turn: 48 NUMBER: 8
+PLAYER-51 CLEAR! TURN: 48
+[True, True, 2, 7, True]
+[17, True, True, True, 27]
+[True, True, True, 43, 42]
+[60, True, True, True, True]
+[True, 70, True, 66, True]
+PLAYER-59 CLEAR! TURN: 48
+[True, True, 6, True, 3]
+[True, True, 27, True, True]
+[True, True, True, 34, 41]
+[True, True, True, 49, True]
+[True, True, 66, True, True]
+PLAYER-65 CLEAR! TURN: 48
+[True, 4, True, True, 15]
+[True, True, 27, True, True]
+[45, True, True, 41, True]
+[59, 57, True, True, True]
+[True, True, True, 66, True]
+PLAYER-92 CLEAR! TURN: 48
+[True, 7, True, 6, True]
+[17, True, True, True, 27]
+[41, 35, True, 34, True]
+[57, 60, 59, True, True]
+[66, 63, 70, True, True]
+PLAYER-122 CLEAR! TURN: 48
+[True, True, True, True, 9]
+[True, 17, True, True, 27]
+[True, 42, True, True, 34]
+[60, True, True, True, 49]
+[True, 70, 66, True, True]
+PLAYER-167 CLEAR! TURN: 48
+[True, True, 7, True, True]
+[17, True, True, True, True]
+[42, 43, True, 34, 35]
+[57, True, True, True, True]
+[True, True, 63, True, True]
+PLAYER-235 CLEAR! TURN: 48
+[True, True, 7, 6, 1]
+[True, True, True, 27, True]
+[35, 41, True, 40, True]
+[True, True, True, True, 59]
+[True, 66, 63, True, True]
+PLAYER-248 CLEAR! TURN: 48
+[True, 15, True, True, True]
+[True, True, True, True, 17]
+[True, 45, True, 41, 43]
+[57, True, True, True, 60]
+[65, True, True, 68, True]
+CLEAR NUMBER: 205
+CLEAR RATE: 82.0%
+
+Turn: 49 NUMBER: 43
+PLAYER-184 CLEAR! TURN: 49
+[True, 6, 15, 12, 4]
+[17, True, 27, True, True]
+[True, True, True, True, True]
+[60, 49, True, True, True]
+[63, True, 68, True, 66]
+CLEAR NUMBER: 206
+CLEAR RATE: 82.39999999999999%
+
+Turn: 50 NUMBER: 65
+PLAYER-54 CLEAR! TURN: 50
+[True, 9, 2, 4, True]
+[True, True, True, 17, 27]
+[True, 34, True, True, 40]
+[59, True, True, 57, 49]
+[True, True, True, True, True]
+PLAYER-67 CLEAR! TURN: 50
+[True, True, 6, True, 12]
+[True, True, True, 17, True]
+[42, 35, True, True, True]
+[True, True, True, 57, True]
+[True, True, True, True, True]
+PLAYER-97 CLEAR! TURN: 50
+[True, 3, 4, True, 2]
+[True, 17, True, True, True]
+[True, True, True, True, 42]
+[True, True, True, 49, True]
+[True, True, True, 66, 70]
+PLAYER-105 CLEAR! TURN: 50
+[True, 15, True, True, 7]
+[True, True, True, True, 17]
+[True, True, True, 35, 34]
+[True, True, True, 57, 49]
+[True, True, 64, 70, True]
+PLAYER-150 CLEAR! TURN: 50
+[True, 4, True, 15, 3]
+[True, True, 27, True, True]
+[True, 35, True, True, 45]
+[True, 49, 60, True, 59]
+[True, True, True, True, 68]
+PLAYER-153 CLEAR! TURN: 50
+[True, True, 6, 4, True]
+[17, True, True, True, True]
+[True, True, True, 40, True]
+[True, 49, True, True, 60]
+[True, True, True, True, True]
+PLAYER-196 CLEAR! TURN: 50
+[True, 9, 2, 12, True]
+[17, True, True, True, 27]
+[34, True, True, 41, 40]
+[57, True, True, 60, True]
+[True, 66, 70, True, True]
+CLEAR NUMBER: 213
+CLEAR RATE: 85.2%
+
+Turn: 51 NUMBER: 34
+PLAYER-1 CLEAR! TURN: 51
+[True, 7, True, 3, True]
+[True, True, True, 27, True]
+[True, 42, True, 35, True]
+[True, True, 49, True, True]
+[True, True, 63, 66, 68]
+PLAYER-48 CLEAR! TURN: 51
+[True, 7, 4, 12, True]
+[True, True, 17, True, True]
+[True, True, True, 41, True]
+[True, True, 59, True, True]
+[66, 63, True, True, True]
+PLAYER-57 CLEAR! TURN: 51
+[True, 4, True, 3, 7]
+[True, 17, True, True, True]
+[True, True, True, True, 41]
+[True, True, 57, True, True]
+[True, 68, True, True, 64]
+PLAYER-79 CLEAR! TURN: 51
+[True, True, 4, True, True]
+[True, True, True, 17, True]
+[True, True, True, True, True]
+[True, 57, True, 60, 49]
+[True, 70, True, 63, True]
+PLAYER-115 CLEAR! TURN: 51
+[True, True, 12, 2, 7]
+[True, 17, True, True, True]
+[True, True, True, True, True]
+[49, True, True, 59, True]
+[64, 68, True, True, True]
+PLAYER-136 CLEAR! TURN: 51
+[True, True, 6, True, True]
+[True, True, 17, True, True]
+[35, True, True, True, True]
+[True, 49, True, True, 57]
+[True, True, True, True, 70]
+PLAYER-149 CLEAR! TURN: 51
+[True, 15, True, 2, True]
+[True, True, 27, True, True]
+[True, True, True, True, True]
+[59, True, True, True, True]
+[63, True, True, 66, True]
+PLAYER-211 CLEAR! TURN: 51
+[True, 3, 6, True, 7]
+[True, 27, True, True, True]
+[True, True, True, True, True]
+[59, True, True, True, 57]
+[True, True, True, 68, True]
+CLEAR NUMBER: 221
+CLEAR RATE: 88.4%
+
+Turn: 52 NUMBER: 40
+PLAYER-33 CLEAR! TURN: 52
+[True, 7, 2, 6, True]
+[True, 27, True, 17, True]
+[True, 42, True, True, True]
+[True, 57, True, True, True]
+[63, True, True, 68, True]
+PLAYER-108 CLEAR! TURN: 52
+[True, True, True, 4, True]
+[True, 27, True, True, True]
+[True, True, True, True, True]
+[True, 49, True, True, 57]
+[True, True, 70, True, True]
+PLAYER-151 CLEAR! TURN: 52
+[True, 9, 6, 4, True]
+[True, True, 27, 17, True]
+[True, True, True, True, True]
+[True, 49, True, True, 59]
+[True, True, 68, 64, True]
+PLAYER-189 CLEAR! TURN: 52
+[True, 6, 3, 9, 2]
+[True, True, True, True, 17]
+[True, True, True, True, True]
+[57, True, True, 59, 49]
+[68, 70, True, True, True]
+CLEAR NUMBER: 225
+CLEAR RATE: 90.0%
+
+Turn: 53 NUMBER: 12
+PLAYER-83 CLEAR! TURN: 53
+[True, 2, True, 9, 7]
+[True, True, 27, True, 17]
+[True, 35, True, 42, True]
+[True, True, True, 60, True]
+[True, True, True, 70, 64]
+PLAYER-86 CLEAR! TURN: 53
+[True, True, True, True, True]
+[True, True, 27, True, True]
+[True, True, True, True, 45]
+[59, 57, True, True, True]
+[True, 70, 66, True, True]
+PLAYER-165 CLEAR! TURN: 53
+[True, True, True, True, True]
+[True, True, 17, True, True]
+[True, True, True, 41, True]
+[True, 59, 60, 57, True]
+[True, True, 68, True, True]
+CLEAR NUMBER: 228
+CLEAR RATE: 91.2%
+
+Turn: 54 NUMBER: 7
+PLAYER-4 CLEAR! TURN: 54
+[True, 15, True, True, 3]
+[True, True, 17, True, True]
+[True, 35, True, True, 41]
+[True, 60, 59, 57, True]
+[True, True, True, 70, 63]
+PLAYER-12 CLEAR! TURN: 54
+[True, True, True, 15, True]
+[27, 17, True, True, True]
+[41, True, True, 45, True]
+[49, True, True, True, True]
+[64, True, True, 63, 70]
+PLAYER-64 CLEAR! TURN: 54
+[True, 6, True, 9, True]
+[True, True, True, 17, True]
+[True, True, True, 42, True]
+[True, True, 59, True, 57]
+[True, 66, True, 68, 70]
+PLAYER-135 CLEAR! TURN: 54
+[True, True, True, True, 3]
+[True, 27, True, True, True]
+[True, True, True, 35, 41]
+[True, 60, 57, True, True]
+[True, True, 70, 68, True]
+CLEAR NUMBER: 232
+CLEAR RATE: 92.80000000000001%
+
+Turn: 55 NUMBER: 2
+PLAYER-29 CLEAR! TURN: 55
+[True, True, True, True, 9]
+[True, True, 27, True, True]
+[True, True, True, 41, True]
+[True, True, 49, True, True]
+[True, True, True, True, 66]
+PLAYER-128 CLEAR! TURN: 55
+[True, 15, True, True, True]
+[True, True, True, True, 27]
+[True, True, True, 35, True]
+[True, 57, True, 59, True]
+[True, 64, True, True, True]
+PLAYER-154 CLEAR! TURN: 55
+[True, 3, True, True, True]
+[17, True, True, True, True]
+[35, 42, True, True, 41]
+[True, True, True, 59, True]
+[68, True, True, True, 66]
+PLAYER-198 CLEAR! TURN: 55
+[True, 6, 15, True, True]
+[27, True, True, True, True]
+[True, 35, True, True, True]
+[49, True, True, 59, True]
+[True, 66, True, True, True]
+CLEAR NUMBER: 236
+CLEAR RATE: 94.39999999999999%
+
+Turn: 56 NUMBER: 63
+PLAYER-16 CLEAR! TURN: 56
+[True, 9, 6, True, True]
+[27, True, True, True, 17]
+[True, 41, True, 45, True]
+[True, True, True, 59, True]
+[True, True, True, True, 64]
+PLAYER-111 CLEAR! TURN: 56
+[True, 3, 15, True, 9]
+[True, True, True, True, 27]
+[True, True, True, True, 35]
+[True, 59, True, True, True]
+[68, True, True, True, 64]
+PLAYER-125 CLEAR! TURN: 56
+[True, True, 9, True, True]
+[True, True, True, 17, True]
+[41, True, True, True, True]
+[True, True, 60, True, True]
+[True, 70, True, True, True]
+PLAYER-126 CLEAR! TURN: 56
+[True, True, True, 9, True]
+[True, 27, True, True, True]
+[True, 35, True, True, True]
+[True, True, 49, True, 59]
+[True, 70, True, 64, 66]
+PLAYER-177 CLEAR! TURN: 56
+[True, 6, True, True, 15]
+[27, True, True, True, True]
+[45, True, True, True, True]
+[True, True, 57, 59, True]
+[True, True, True, True, True]
+PLAYER-210 CLEAR! TURN: 56
+[True, True, True, True, 1]
+[True, True, True, True, 17]
+[True, 45, True, True, True]
+[57, 49, True, True, 60]
+[True, 70, 66, True, True]
+CLEAR NUMBER: 242
+CLEAR RATE: 96.8%
+
+Turn: 57 NUMBER: 60
+PLAYER-89 CLEAR! TURN: 57
+[True, True, 9, True, 4]
+[True, True, True, 17, True]
+[True, True, True, 45, True]
+[True, True, True, True, True]
+[66, 70, True, True, True]
+CLEAR NUMBER: 243
+CLEAR RATE: 97.2%
+
+Turn: 58 NUMBER: 70
+PLAYER-18 CLEAR! TURN: 58
+[True, 4, True, True, True]
+[True, True, 17, True, True]
+[True, True, True, True, 45]
+[True, True, True, 59, 49]
+[True, True, True, True, True]
+PLAYER-193 CLEAR! TURN: 58
+[True, 4, True, True, True]
+[27, True, True, True, True]
+[True, 42, True, True, True]
+[True, True, True, 49, 59]
+[68, True, True, True, True]
+CLEAR NUMBER: 245
+CLEAR RATE: 98.0%
+
+Turn: 59 NUMBER: 64
+PLAYER-102 CLEAR! TURN: 59
+[True, True, 6, True, True]
+[True, 17, True, 27, True]
+[True, True, True, 41, True]
+[True, 59, True, True, True]
+[68, True, True, True, True]
+CLEAR NUMBER: 246
+CLEAR RATE: 98.4%
+
+Turn: 60 NUMBER: 17
+PLAYER-38 CLEAR! TURN: 60
+[True, True, 3, 9, True]
+[True, True, True, True, True]
+[35, True, True, True, True]
+[True, True, True, 49, 59]
+[68, True, True, True, True]
+CLEAR NUMBER: 247
+CLEAR RATE: 98.8%
+
+Turn: 61 NUMBER: 41
+PLAYER-63 CLEAR! TURN: 61
+[True, True, 15, True, True]
+[True, True, True, 27, True]
+[True, True, True, True, True]
+[57, True, True, True, True]
+[True, True, True, 68, 66]
+CLEAR NUMBER: 248
+CLEAR RATE: 99.2%
+
+Turn: 62 NUMBER: 9
+PLAYER-114 CLEAR! TURN: 62
+[True, True, True, True, True]
+[27, True, True, True, True]
+[True, True, True, 42, True]
+[True, 59, True, 57, True]
+[True, True, 68, True, True]
+CLEAR NUMBER: 249
+CLEAR RATE: 99.6%
+
+Turn: 63 NUMBER: 42
+PLAYER-195 CLEAR! TURN: 63
+[True, True, 15, True, True]
+[True, True, True, 27, True]
+[True, True, True, True, True]
+[True, 57, True, True, True]
+[68, True, True, True, 66]
+CLEAR NUMBER: 250
+CLEAR RATE: 100.0%
+
