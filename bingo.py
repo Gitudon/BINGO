@@ -53,7 +53,7 @@ def bingo_judge(bingo):
         bingo[0][0]=-1
         return bingo
     if (bingo[0][4]=="x" and bingo[1][3]=="x" and bingo[2][2]=="x" and bingo[3][1]=="x" and bingo[4][0]=="x"):
-        bingo[4][0]=-1
+        bingo[0][0]=-1
         return bingo
     return bingo
 
@@ -79,7 +79,7 @@ def main():
                     people[i]=bingo_number(people[i],num)
                     people[i]=bingo_judge(people[i])
                     if people[i][0][0]==-1:
-                        print("PLAYER-" + str(i) + " CLEAR! TURN: " + str(turn),file=f)
+                        print("PLAYER-" + str(i) + " CLEAR!",file=f)
                         temp=people[i]
                         temp[0][0]="x"
                         for t in temp:
