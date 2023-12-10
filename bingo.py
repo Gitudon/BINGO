@@ -2,7 +2,7 @@ import random
 
 def bingo_init():
     bingo=[[0]*5 for _ in range(5)]
-    bingo[2][2]=True
+    bingo[2][2]="x"
     return bingo
 
 def gen_bingo(bingo):
@@ -21,7 +21,7 @@ def gen_bingo(bingo):
                     temp=random.randint(61,75)
                 if temp not in bingo[i]:
                     break
-            if bingo[i][j]!=True:
+            if bingo[i][j]!="x":
                 bingo[i][j]=temp
     return bingo
 
@@ -33,7 +33,7 @@ def bingo_number(bingo,num):
     for i in range(5):
         for j in range(5):
             if bingo[i][j]==num:
-                bingo[i][j]=True
+                bingo[i][j]="x"
                 flag=True
                 break
         if flag:
@@ -42,18 +42,18 @@ def bingo_number(bingo,num):
 
 def bingo_judge(bingo):
     for i in range(5):
-        if (bingo[i][0]==True and bingo[i][1]==True and bingo[i][2]==True and bingo[i][3]==True and bingo[i][4]==True):
+        if (bingo[i][0]=="x" and bingo[i][1]=="x" and bingo[i][2]=="x" and bingo[i][3]=="x" and bingo[i][4]=="x"):
             bingo[0][0]=-1
             return bingo
     for j in range(5):
-        if (bingo[0][j]==True and bingo[1][j]==True and bingo[2][j]==True and bingo[3][j]==True and bingo[4][j]==True):
+        if (bingo[0][j]=="x" and bingo[1][j]=="x" and bingo[2][j]=="x" and bingo[3][j]=="x" and bingo[4][j]=="x"):
             bingo[0][0]=-1
             return bingo
-    if (bingo[0][0]==True and bingo[1][1]==True and bingo[2][2]==True and bingo[3][3]==True and bingo[4][4]==True):
+    if (bingo[0][0]=="x" and bingo[1][1]=="x" and bingo[2][2]=="x" and bingo[3][3]=="x" and bingo[4][4]=="x"):
         bingo[0][0]=-1
         return bingo
-    if (bingo[0][4]==True and bingo[1][3]==True and bingo[2][2]==True and bingo[3][1]==True and bingo[4][0]==True):
-        bingo[0][0]=-1
+    if (bingo[0][4]=="x" and bingo[1][3]=="x" and bingo[2][2]=="x" and bingo[3][1]=="x" and bingo[4][0]=="x"):
+        bingo[4][0]=-1
         return bingo
     return bingo
 
@@ -81,7 +81,7 @@ def main():
                     if people[i][0][0]==-1:
                         print("PLAYER-" + str(i) + " CLEAR! TURN: " + str(turn),file=f)
                         temp=people[i]
-                        temp[0][0]=True
+                        temp[0][0]="x"
                         for t in temp:
                             print(t,file=f)
                         people[i][0][0]=0
