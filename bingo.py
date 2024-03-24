@@ -58,7 +58,7 @@ def bingo_judge(bingo):
     return bingo
 
 def main():
-    population=250
+    population=45
     people=[]
     for _ in range(population):
         people.append(gen_bingo(bingo_init()))
