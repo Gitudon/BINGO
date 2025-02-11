@@ -64,7 +64,7 @@ def main():
         people.append(gen_bingo(bingo_init()))
     turn=1
     store=[]
-    path="outputs/"+str(random.randint(1,2023))+".txt"
+    path="output/"+str(random.randint(1,2023))+".txt"
     with open(path,'a') as f:
         while True:
             while True:
